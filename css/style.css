@@ -171,7 +171,8 @@ hr {
 	padding: 10px 0 40px 0;
 }
 .intro h1 {
-	color: rgba(255,255,255,0.9);
+	color:#cfa851;
+	background: #262e2d;
 	font-size: 64px;
 	font-weight: 600;
 	letter-spacing: 1px;
